@@ -38,6 +38,7 @@
 - [EditorConfig](https://editorconfig.org/)
 - [ESLint](https://www.npmjs.com/package/eslint)
 - [Nodemon](https://nodemon.io/)
+- [Validator](https://www.npmjs.com/package/validator)
 
 ## Инструкция по запуску проекта
 
